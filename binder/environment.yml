@@ -42,4 +42,4 @@ dependencies:
   - bioconductor-clusterprofiler
   - bioconductor-limma
   - bioconductor-biomart
-  - bioconductor-genomicsranges
+  - bioconductor-genomicranges
