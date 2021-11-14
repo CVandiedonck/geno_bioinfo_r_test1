@@ -14,5 +14,32 @@ dependencies:
   - r-base>=4.1.0
   - r-rcpp
   - r-tidyverse
+  - r-magrittr
   - r-factominer
   - r-dt
+  - r-diagram
+  - r-readxl
+  - r-writexl
+  - r-gprofiler2
+  - r-rcolorbrewer
+  - r-wesanderson 
+  - r-rgl
+  - r-plotly
+  - r-kernsmooth
+  - r-lubridate
+  - r-statmod
+  - r-dendextend
+  - r-gplots
+  - r-Matrix
+  - r-lattice
+  - r-fdrtool
+  - r-rpart
+  - r-RSQLite
+  - r-gplots
+  - r-locfit
+  - bioconductor-biostrings
+  - bioconductor-gseabase
+  - bioconductor-clusterprofiler
+  - bioconductor-limma
+  - bioconductor-biomart
+  - bioconductor-genomicsranges
